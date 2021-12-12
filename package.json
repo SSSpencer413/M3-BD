@@ -1,7 +1,6 @@
 {
   "name": "mb-3d",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,5 +11,14 @@
   "dependencies": {
     "discord.js": "^13.3.1",
     "handbrake-js": "^6.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SSSpencer413/M3-BD.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SSSpencer413/M3-BD/issues"
+  },
+  "homepage": "https://github.com/SSSpencer413/M3-BD#readme",
+  "description": ""
 }
